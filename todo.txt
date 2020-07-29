@@ -1,0 +1,14 @@
+
+
+
+DO TO: 
+    [X] fix note id counter 
+    [X] color pic
+    [X] update the note model for indexing in list view || add index attribute to note model
+    [X] when save on cloud is turned on save note count on server
+    [X] pull to refresh
+    [X] make checkboxes to switches
+    [X] change color of all cursors
+    [] local authentication with fingerprint
+    [] make list of set notifications
+    [] change color of scroll splash effect
